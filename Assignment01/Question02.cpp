@@ -30,7 +30,7 @@ int main() {
 	int input;
 	int choice;
 
-	cout << "Please enter 1 for Celcius, 2 for Farhrenhiet or 3 for Kelvin:   ";
+	cout << "Please enter 1 for Celcius, 2 for Farhrenhiet or 3 for Kelvin:    ";
 	cin >> choice;
 
 
